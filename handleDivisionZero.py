@@ -1,0 +1,1 @@
+# return the result of dividing two numbers and also handle division by zero
